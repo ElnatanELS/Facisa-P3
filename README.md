@@ -15,7 +15,7 @@ Esse repositório será exclusivamente para uso acadêmico durante a duração d
 
 
   <p align="center">
-    Professor: <a href="https://github.com/daniel-abella">Daniel Abellas</a>
+    Professor: <a href="https://github.com/daniel-abella">Daniel Abella</a>
     &middot;
     Aluno: <a href="https://github.com/ElnatanEls">Elnatan Emanuel</a>
     &middot;
