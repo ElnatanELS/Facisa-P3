@@ -10,7 +10,7 @@ Repositório das atividades da disciplina de Programação III, com o intuito de
 
 ### Qual finalidade desse repositório?
 
-Esse repositório será exclusivamente para uso academico durante a duração da disciplina.
+Esse repositório será exclusivamente para uso acadêmico durante a duração da disciplina.
 
 
 
