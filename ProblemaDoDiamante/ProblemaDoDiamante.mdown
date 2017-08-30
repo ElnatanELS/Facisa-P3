@@ -1,0 +1,23 @@
+<p align="center">
+  <a href="https://cesed.br">
+    <img src="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAh1AAAAJDlmN2ViMGFhLThkZDEtNDFiMC1hYzI1LTViOWRkMTYzM2VjZg.png" >
+  </a>
+</p>
+
+# Problema Do Diamante
+
+O Problema do diamante é causando pela a múltipla Herança, esse problema ocorre quando há métodos de assinaturas iguais, causando no Java
+Problema para identificar qual método realmente deve ser executado. 
+
+### Qual forma de solucionar esse problema no Java?
+
+A solução para implementar um método de diferentes objetos é transforma-los em interfaces.
+
+
+  <p align="center">
+    &middot;
+    Aluno: <a href="https://github.com/ElnatanEls">Elnatan Emanuel</a>
+    &middot;
+  </p>
+
+
